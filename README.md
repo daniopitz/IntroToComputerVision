@@ -13,10 +13,6 @@ El material proviene principalmente del libro Programming Computer Vision with P
 | 2 |  26-10-2019 | Detección de caracteristicas, esquinas y bordes, algoritmos: harris corner detector y sift | [clase_02.pdf](https://github.com/calipsotornasol/intro_computer_vision/blob/intro_cv_2019/introcv_clase02.pdf)  |   |
 | 3 |  15-11-2019  | Translaciónes, rotaciones y homografías. Alineación de imágenes  |  [clase_03.pdf]
 (https://github.com/calipsotornasol/intro_computer_vision/blob/intro_cv_2019/introcv_clase03.pdf)  |   |
-| 4 |  16-11-2019  | Segmentación|  [clase_04.pdf]
-(https://github.com/calipsotornasol/intro_computer_vision/blob/intro_cv_2019/introcv_clase04.pdf)  |   |
-| 5 |  16-11-2019  | Extracción de caracteristicas con redes neuronales, reconocimiento facial|  [clase_05.pdf]
-(https://github.com/calipsotornasol/intro_computer_vision/blob/intro_cv_2019/introcv_clase05.pdf)  |   |
 
 
 ## Bibliografía
