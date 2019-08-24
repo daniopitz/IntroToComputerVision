@@ -7,9 +7,9 @@ El material proviene principalmente del libro Programming Computer Vision with P
 
 ## Bibliografía
 
-- Computer Vision: Foundations and Applications (CS131)[http://vision.stanford.edu/teaching/cs131_fall1819/syllabus.html]
-- Convolutional Neural Networks for Visual Recognition (CS231)[http://cs231n.stanford.edu/syllabus.html]
-- Programming Computer Vision with Python, Jan Erik Solem[http://programmingcomputervision.com/]
+- Computer Vision: Foundations and Applications[(CS131)](http://vision.stanford.edu/teaching/cs131_fall1819/syllabus.html)
+- Convolutional Neural Networks for Visual Recognition[(CS231)](http://cs231n.stanford.edu/syllabus.html)
+- [Programming Computer Vision with Python, Jan Erik Solem] (http://programmingcomputervision.com/)
 
 
 
