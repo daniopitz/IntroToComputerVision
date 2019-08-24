@@ -1,4 +1,4 @@
-# Introduccion a la Vision Computacional
+# Introducción a la Vision Computacional
 
 En este repositorio hay notebooks de Jupyter para la clase de Introducción a Vison Computacional de la Universidad del Desarrollo para estudiantes de Magister y Diplomado en Data Science
 
