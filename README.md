@@ -10,8 +10,8 @@ El material proviene principalmente del libro Programming Computer Vision with P
 | Clase | Fecha | Contenido  | Slides |  Notebook |
 |:-:|:-:|:-:|:-:|:-:|
 | 1  | 30-08-2019 | Intro, manipulacion básica de imágenes | [clase_01.pdf](https://github.com/calipsotornasol/intro_computer_vision/blob/intro_cv_2019/introcv_clase01.pdf)  |   |
-| 2 |   |   |   |   |
-| 3 |   |   |   |   |
+| 2 |  26-10-2019 |   | [clase_02.pdf](https://github.com/calipsotornasol/intro_computer_vision/blob/intro_cv_2019/introcv_clase02.pdf)  |   |
+| 3 |  15-11-2019  |   |  [clase_03.pdf](https://github.com/calipsotornasol/intro_computer_vision/blob/intro_cv_2019/introcv_clase03.pdf)  |   |
 
 ## Bibliografía
 
