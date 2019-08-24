@@ -7,11 +7,11 @@ El material proviene principalmente del libro Programming Computer Vision with P
 
 ## Programa
 
-| Clase  |   |   |   |   |
+| Clase | Fecha | Contenido  | Slides |  Notebook |
 |:-:|:-:|:-:|:-:|:-:|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| 1  | 30-08-2019 | Intro, manipulacion básica de imágenes   |   |   |
+| 2 |   |   |   |   |
+| 3 |   |   |   |   |
 
 ## Bibliografía
 
