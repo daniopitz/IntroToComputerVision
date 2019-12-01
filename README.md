@@ -26,7 +26,7 @@ El material proviene principalmente del libro Programming Computer Vision with P
 | Evaluación | Descripción | Porcentaje | Fecha de Entrega |
 |:-:|:--:|:--:|:--:|
 | 1 |Presentación Grupal (Máx. 2 pers.)| 30% | 14-12-2019 | 
-| 2 | Resolución de  problemas (Máx 2 pers.) | 70% | 14-01-2019 |
+| 2 | Resolución de Problemas (Máx 2 pers.) | 70% | 14-01-2019 |
 
 
 
