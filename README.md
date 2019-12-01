@@ -25,8 +25,8 @@ El material proviene principalmente del libro Programming Computer Vision with P
 
 | Evaluación | Resumen |Detalle |Porcentaje | Fecha de Entrega |
 |:-:|:--:|:--:|:--:|:--:|
-| 1 |Presentación Grupal (Máx. 2 pers.)|(https://github.com/calipsotornasol/intro_computer_vision/blob/intro_cv_2019/Evaluacion1.pdf) [Evaluacion1] | 30% | 14-12-2019 | 
-| 2 |Resolución de Problemas (Máx 2 pers.) |(https://github.com/calipsotornasol/intro_computer_vision/blob/intro_cv_2019/Evaluacion2.pdf) [Evaluacion2] | 70% | 14-01-2019 |
+| 1 |Presentación Grupal (Máx. 2 pers.)|[Evaluacion1](https://github.com/calipsotornasol/intro_computer_vision/blob/intro_cv_2019/Evaluacion1.pdf)  | 30% | 14-12-2019 | 
+| 2 |Resolución de Problemas (Máx 2 pers.) |[Evaluacion2}(https://github.com/calipsotornasol/intro_computer_vision/blob/intro_cv_2019/Evaluacion2.pdf)  | 70% | 14-01-2019 |
 
 
 
