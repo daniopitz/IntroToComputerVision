@@ -23,16 +23,10 @@ El material proviene principalmente del libro Programming Computer Vision with P
 
 ## Evaluaciones
 
-| Evaluación | Descripción   | Porcentaje | Fecha de Entrega |
+| Evaluación | Descripción | Porcentaje | Fecha de Entrega |
 |:-:|:--:|:--:|:--:|
-| 1  | 30-08-2019 | Introducción a cv, estado del arte, principales librerías para manipulacion básica de imágenes | [clase_01.pdf](https://github.com/calipsotornasol/intro_computer_vision/blob/intro_cv_2019/introcv_clase01.pdf)  | 
-| 2 |  09-11-2019 | Detección de caracteristicas, esquinas y bordes, algoritmos: harris corner detector y sift | [clase_02.pdf](https://github.com/calipsotornasol/intro_computer_vision/blob/intro_cv_2019/introcv_clase02.pdf)  | 
-| 3 |  30-11-2019  | Translaciónes, rotaciones y homografías. Alineación de imágenes y construcción de panorámicas | [clase_03.pdf](https://github.com/calipsotornasol/intro_computer_vision/blob/intro_cv_2019/introcv_clase03.pdf)  | 
-| 4 |  07-12-2019  | Segmentación y clusterización de imágenes | [clase_04.pdf](https://github.com/calipsotornasol/intro_computer_vision/blob/intro_cv_2019/introcv_clase04.pdf)  | 
-| 5 |  14-12-2019  | Extracción de caracteristicas con redes neuronales, algoritmos: tsne y umap, reconocimiento facial|[clase_05.pdf](https://github.com/calipsotornasol/intro_computer_vision/blob/intro_cv_2019/introcv_clase05.pdf)| 
+| 1 |Presentación Grupal (Máx. 2 pers.)| 30% | 14-12-2019 | 
+| 2 | Resolución de  problemas (Máx 2 pers.) | 70% | 14-01-2019 |
 
-
-\item Evaluacion1
-\item Evaluacion 2
 
 
