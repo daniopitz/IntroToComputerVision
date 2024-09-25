@@ -28,5 +28,9 @@ El material proviene principalmente del libro Programming Computer Vision with P
 | 1 |Presentación Grupal (Máx. 2 pers.)|[Evaluacion1](https://github.com/calipsotornasol/intro_computer_vision/blob/intro_cv_2019/Evaluacion1.pdf)  | 30% | 24-10-2020 | 
 | 2 |Resolución de Problemas (Máx. 2 pers.) |[Evaluacion2](https://github.com/calipsotornasol/intro_computer_vision/blob/intro_cv_2019/Evaluacion2.pdf)  | 70% | 14-11-2020 |
 
+## Derechos de Autor y de Uso
 
+No está permitido vender, distribuir, ni utilizar este material con fines productivos, de investigación o educativos sin el consentimiento previo y por escrito de los propietarios.
+
+Si deseas utilizar este material con fines educativos o de investigación, por favor, solicita autorización previa contactándome en [daniela.opitz@unswalumni.com].
 
